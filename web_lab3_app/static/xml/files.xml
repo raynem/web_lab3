@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<root>
+	<file>
+		<filename>file_1</filename>
+		<text>hfdjkfhkdsfhgjkdgd</text>
+	</file>
+	<file>
+		<filename>file_2</filename>
+		<text>hgjdfghkfd</text>
+	</file>
+	<file>
+		<filename>file_3</filename>
+		<text>fhgfhgdhkghjkdfgdf</text>
+	</file>
+	<file>
+		<filename>file_4</filename>
+		<text>gdfgdfgd</text>
+	</file>
+</root>

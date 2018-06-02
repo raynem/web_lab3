@@ -1,0 +1,50 @@
+.main{
+    margin-top: 2rem;
+}
+
+body{
+    background: #f8f8f8 !important;
+}
+
+.block{
+    padding: 1rem;
+    margin-bottom: 2rem;
+    background: white;
+    border-radius: 3px/5px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, .5) ;
+
+}
+
+.footer {
+    padding: 2rem 0;
+    margin-top: 3rem;
+    background-color: #343434;
+    color: white;
+    text-align: center;
+}
+
+.copyright{
+    padding: 1rem;
+    background-color: #2f2f2f;
+    color: #6d6d6d;
+    text-align: center;
+}
+
+
+/*@media(max-width: 1199px){*/
+    /*.carousel slide{*/
+        /*height: 300px;*/
+    /*}*/
+/*}*/
+
+/*@media(max-width: 991px){*/
+    /*.carousel-iner{*/
+        /*height: 600px;*/
+    /*}*/
+/*}*/
+
+/*@media(max-width: 767px){*/
+    /*.carousel slide{*/
+        /*height: 300px;*/
+    /*}*/
+/*}*/
